@@ -1,0 +1,4 @@
+com/example/productmanager/Tema16092024Application.class
+com/example/productmanager/controller/ProductController.class
+com/example/productmanager/entity/Product.class
+com/example/productmanager/repository/ProductRepository.class
